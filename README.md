@@ -4,5 +4,5 @@
 
 <References>
 [1]小説家になろう, https://syosetu.com/<br>
-[2]小説家になろう API、https://dev.syosetu.com/man/api/#link6<br>
+[2]小説家になろう API、https://dev.syosetu.com/man/api/<br>
 [3]IFTTT, https://ifttt.com/<br>
