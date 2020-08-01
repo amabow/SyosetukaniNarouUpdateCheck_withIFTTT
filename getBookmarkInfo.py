@@ -68,3 +68,9 @@ def check(prevData, newData):
             post_ifttt(json)
     storeData(newData)
 
+# Example
+payload = {'out': 'json', 'ncode':'n5455cx-n3125cg-n2267be-n4029bs', 'of':'t-gl-n-ga', 'gzip':5}
+prevData = readData()
+newData = getNewData(payload)
+
+check(prevData, newData)
